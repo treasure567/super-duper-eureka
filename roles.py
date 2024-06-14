@@ -1,0 +1,1 @@
+roles={"member":2,"admin":0,"doctor":1}
